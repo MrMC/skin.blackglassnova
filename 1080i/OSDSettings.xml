@@ -32,6 +32,7 @@
                 <width>1920</width>
                 <align>center</align>
                 <itemgap>10</itemgap>
+                <onup>Close</onup>
                 <orientation>horizontal</orientation>
                 <control type="button" id="704">
                     <label>$LOCALIZE[24012]</label>
